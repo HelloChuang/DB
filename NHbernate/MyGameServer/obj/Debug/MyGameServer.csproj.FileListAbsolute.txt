@@ -1,0 +1,6 @@
+G:\Photonserver\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+G:\Photonserver\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+C:\Users\ASU\source\repos\NHibernate与数据库交互\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache
+C:\Users\ASU\source\repos\NHibernate与数据库交互\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ASU\source\repos\NHibernate与数据库交互\MyGameServer\obj\Debug\MyGameServer.dll
+C:\Users\ASU\source\repos\NHibernate与数据库交互\MyGameServer\obj\Debug\MyGameServer.pdb
